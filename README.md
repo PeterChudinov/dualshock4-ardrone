@@ -41,6 +41,16 @@ Then just do the same thing as with the USB.
 
 Hold the Playstation button and Share button for a few seconds to exit the Bluetooth mode, if you want to get back to playing your PS4.
 
+## I don't know how to use this thing!
+
+The controls are pretty easy, you can figure them out yourself. Don't crash tho...
+
+Just kidding, it's pretty simple.
+Left stick - fly front/back or left/right
+Right stick - fly up/down or turn
+X - take a picture
+Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!)
+
 ## Want to contribute?
 Hit me up, or open an issue. If you're brave and confident enough, do a pull request.
 
