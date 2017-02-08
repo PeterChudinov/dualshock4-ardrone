@@ -29,7 +29,8 @@ You can do it using a USB cable or through Bluetooth, ea-sy!
 Just plug it in, it's going to show up at devices list if you run `cylon-joystick-explorer`. If you have a pimped out custom controller, don't forget to get the `description` from there too.
 If the controller still refuses to work, go to the `drone.js` and do this:
 
-```devices: {
+```javascript
+  devices: {
     controller: { driver: 'dualshock-3', description: '%THAT NAME FROM THE DESCRIPTION%' }
   }
 ```
