@@ -1,5 +1,5 @@
 ## dualshock4-ardrone
-A quick snippet that lets you fly your Parrot arDrone 2.0 using a Dualshock 4 controller. It also can work with other controllers, but you will have to use [cylon-joystick docs](https://github.com/hybridgroup/cylon-joystick) for those manipulations.
+A quick snippet that lets you fly your Parrot arDrone 2.0 using a Dualshock 4 controller. It also can work with other controllers, but you will have to refer to [cylon-joystick docs](https://github.com/hybridgroup/cylon-joystick) for those manipulations.
 
 ## Why?
 I hate the way Parrot made their phone app, and I got inspired by Watch Dogs 2. And I was bored and totally had nothing to do.
@@ -46,13 +46,17 @@ Hold the Playstation button and Share button for a few seconds to exit the Bluet
 The controls are pretty easy, you can figure them out yourself. Don't crash tho...
 
 Just kidding, it's pretty simple.
+
 Left stick - fly front/back or left/right
+
 Right stick - fly up/down or turn
+
 X - take a picture
+
 Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!) or use `drone.takeoff()` and `drone.land()`
 
 ## Want to contribute?
-Hit me up, or open an issue. If you're brave and confident enough, do a pull request.
+Hit me up or open an issue. If you're brave and confident enough, do a pull request.
 
 ## Legal stuff
 Software supplied as is, I am not responsible for you crashing your drone. Your mom will buy you a new one for Christmas anyway.
