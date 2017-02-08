@@ -49,7 +49,7 @@ Just kidding, it's pretty simple.
 Left stick - fly front/back or left/right
 Right stick - fly up/down or turn
 X - take a picture
-Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!)
+Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!) or use `drone.takeoff()` and `drone.land()`
 
 ## Want to contribute?
 Hit me up, or open an issue. If you're brave and confident enough, do a pull request.
