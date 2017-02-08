@@ -31,7 +31,7 @@ If the controller still refuses to work, go to the `drone.js` and do this:
 
 ```javascript
   devices: {
-    controller: { driver: 'dualshock-3', description: '%THAT NAME FROM THE DESCRIPTION%' }
+    controller: { driver: 'dualshock-4', description: '%THAT NAME FROM THE DESCRIPTION%' }
   }
 ```
 
@@ -49,11 +49,11 @@ Just kidding, it's pretty simple.
 
 Left stick - fly front/back or left/right
 
-Right stick - fly up/down or turn
+Right stick - fly up/down or turn left/right
 
 X - take a picture
 
-Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!) or use `drone.takeoff()` and `drone.land()`
+Takeoff and yet to be implemented, so you'll have to throw it up yourself (sic!) or use `drone.takeoff()` and `drone.land()` in console
 
 ## Want to contribute?
 Hit me up or open an issue. If you're brave and confident enough, do a pull request.
